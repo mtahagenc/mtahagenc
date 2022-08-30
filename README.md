@@ -1,16 +1,12 @@
-### Hi there 👋
+### Hi there I am Taha👋
 
-<!--
-**mtahagenc/mtahagenc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My story is a little bit complicated. 
+First thing first, I am a husband of a wonderful women an a dad of a precios daughter at age 1.
+I graduated from Mining Engineering Faculty, started a job as a production engineer in a company and the company bankrupted lol. 
+Then I established a jewelry store with my brothers and now we have two shops in different locations. 
+And finally I am ready to pursue my dreams as an iOS developer that started back at university as a hobby. 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Feyza Kuyumculuk
+- 🌱 I’m currently learning Swift
+- 💬 Ask me about coding with Swift, real mining lol, jewelry etc.
+- 📫 How to reach me: https://twitter.com/mtahagenc
